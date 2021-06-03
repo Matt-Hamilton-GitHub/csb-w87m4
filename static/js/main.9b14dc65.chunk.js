@@ -1,0 +1,2 @@
+(this["webpackJsonptyping-animation"]=this["webpackJsonptyping-animation"]||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var c=n(1),i=n(3),s=n.n(i),a=(n(8),n(0));function o(){return Object(a.jsxs)("div",{className:"App",children:[Object(a.jsx)("h1",{children:"Hello, my name is Matt."}),Object(a.jsx)("p",{className:"subtitle",children:"Welcome to my web-page!"})]})}var r=document.getElementById("root");s.a.render(Object(a.jsx)(c.StrictMode,{children:Object(a.jsx)(o,{})}),r)},8:function(e,t,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.9b14dc65.chunk.js.map

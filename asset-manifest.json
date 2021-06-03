@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://matt-hamilton-github.github.io/csb-w87m4/static/css/main.7d78ad23.chunk.css",
+    "main.js": "https://matt-hamilton-github.github.io/csb-w87m4/static/js/main.9b14dc65.chunk.js",
+    "main.js.map": "https://matt-hamilton-github.github.io/csb-w87m4/static/js/main.9b14dc65.chunk.js.map",
+    "runtime-main.js": "https://matt-hamilton-github.github.io/csb-w87m4/static/js/runtime-main.ec49ae65.js",
+    "runtime-main.js.map": "https://matt-hamilton-github.github.io/csb-w87m4/static/js/runtime-main.ec49ae65.js.map",
+    "static/js/2.34b0eeed.chunk.js": "https://matt-hamilton-github.github.io/csb-w87m4/static/js/2.34b0eeed.chunk.js",
+    "static/js/2.34b0eeed.chunk.js.map": "https://matt-hamilton-github.github.io/csb-w87m4/static/js/2.34b0eeed.chunk.js.map",
+    "index.html": "https://matt-hamilton-github.github.io/csb-w87m4/index.html",
+    "static/css/main.7d78ad23.chunk.css.map": "https://matt-hamilton-github.github.io/csb-w87m4/static/css/main.7d78ad23.chunk.css.map",
+    "static/js/2.34b0eeed.chunk.js.LICENSE.txt": "https://matt-hamilton-github.github.io/csb-w87m4/static/js/2.34b0eeed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec49ae65.js",
+    "static/js/2.34b0eeed.chunk.js",
+    "static/css/main.7d78ad23.chunk.css",
+    "static/js/main.9b14dc65.chunk.js"
+  ]
+}
